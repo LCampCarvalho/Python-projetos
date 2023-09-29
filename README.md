@@ -12,7 +12,7 @@ O programa tem as funções:
   ✔ Exclusão de matrícula.
 
 
- # Resumo do programa:
+ # Resumo do programa
  
    O programa cria o número da matrícula, utilizando  o módulo random + o 2023, salvando-a em um txt (criado pelo programa) com os demais dados cadastrais digitados pelo usuário
    (nome, data de nascimento, cpf, e-mail, peso e agendamento). Consulta as matriculas já cadastradas, permitindo alterar cada informação dos dados cadastrais, de maneira individual
