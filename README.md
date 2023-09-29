@@ -1,4 +1,4 @@
-# Python-projetos
+# Python-projeto
 Projetos realizado em Python de um programa de cadastro de matrículas salvando-as em um arquivo txt.
 
 O programa tem as funções:
