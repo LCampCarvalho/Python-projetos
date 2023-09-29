@@ -1,4 +1,4 @@
-# Programa de Sistema de Cadastro
+# Programa de Sistema de Cadastro academia
 
 
 # Modulos importados
