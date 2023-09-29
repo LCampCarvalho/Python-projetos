@@ -1,5 +1,5 @@
 # Python-projeto
-Projetos realizado em Python de um programa de cadastro de matrículas salvando-as em um arquivo txt.
+Projetos realizado em Python de um programa de cadastro de academia.
 
 O programa tem as funções:
 
