@@ -1,5 +1,5 @@
 # Python-projeto
-Projetos realizado em Python de um programa de cadastro de academia.
+Projeto realizado em Python de um programa de cadastro de academia.
 
 O programa tem as funções:
 
